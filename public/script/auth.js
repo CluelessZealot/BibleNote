@@ -5,10 +5,10 @@ import { auth } from './firebase.js';
 
 // Your Firebase config (replace these values with your actual project config)
 const firebaseConfig = {
-  apiKey: "YOUR_API_KEY",
-  authDomain: "YOUR_PROJECT_ID.firebaseapp.com",
-  projectId: "YOUR_PROJECT_ID",
-  appId: "YOUR_APP_ID"
+  apiKey: "AIzaSyAoOIdG-Ry3dfR2H0cjNIRTlhr9IxAjHh8",
+  authDomain: "biblenote-f6494.firebaseapp.com",
+  projectId: "biblenote-f6494",
+  appId: "1:615970059790:web:839ef1f8581c1e3db32e5f"
 };
 
 // Initialize Firebase
