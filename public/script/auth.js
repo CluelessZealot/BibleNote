@@ -11,9 +11,8 @@ const firebaseConfig = {
   appId: "1:615970059790:web:839ef1f8581c1e3db32e5f"
 };
 
-// Initialize Firebase
-const app = initializeApp(firebaseConfig);
-const auth = getAuth(app);
+export { auth };
+
 
 // Handle login form submission
 document.querySelector("form").addEventListener("submit", async (e) => {
