@@ -3,7 +3,7 @@ import { initializeApp } from "https://www.gstatic.com/firebasejs/10.11.0/fireba
 import { getAuth, signInWithEmailAndPassword } from "https://www.gstatic.com/firebasejs/10.11.0/firebase-auth.js";
 import { auth } from './firebase.js';
 
-// Your Firebase config (replace these values with your actual project config)
+//Firebase config 
 const firebaseConfig = {
   apiKey: "AIzaSyAoOIdG-Ry3dfR2H0cjNIRTlhr9IxAjHh8",
   authDomain: "biblenote-f6494.firebaseapp.com",
